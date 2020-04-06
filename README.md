@@ -9,7 +9,7 @@ When you run this module, it performs a few tasks under the hood:
 
 ### Compatibility
 
-The ```Kafka``` module was tested with with logs from versions 0.9, 1.1.0 and 2.0.0.
+The ```Kafka``` module was tested with logs from versions 0.9, 1.1.0 and 2.0.0.
 
 
 ### Installation
