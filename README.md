@@ -48,6 +48,6 @@ service filebeat restart
 
 ## Example Dashboard
 
-This module comes with a sample dashboard. For example:
+This module comes with a sample dashboard to see Kafka logs and stack traces.
 
 ![Imgur](https://imgur.com/u39MmSK.png)
