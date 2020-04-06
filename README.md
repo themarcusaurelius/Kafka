@@ -1,4 +1,4 @@
-## Collects and prses the logs created by Kafka
+## Collects and parses the logs created by Kafka
 
 When you run this module, it performs a few tasks under the hood:
 
